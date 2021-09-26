@@ -3,7 +3,7 @@ In this Repository I have build an image search ML project which can perform fol
 
 I have used google image pi for searching the image. 
 I also talked about how we can leverage Python and its rich scientific and data analysis toolkits to create a working image search engine. I also emphasized the importance of abstract vector spaces and the general technique of joint training of different models to merge two different vector spaces.
-I have throughly explained step by step execution in the juptyer notebook.Some of the Steps are
+I have throughly explained step by step execution in the juptyer notebook.
 
 # Model examples
 
